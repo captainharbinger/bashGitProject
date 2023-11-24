@@ -1,0 +1,2 @@
+# bashGitProject
+Learning Git
